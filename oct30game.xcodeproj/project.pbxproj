@@ -94,8 +94,8 @@
 		37F3D05A2AF0464D00782CFD /* oct30game */ = {
 			isa = PBXGroup;
 			children = (
-				37F3D05B2AF0464D00782CFD /* oct30gameApp.swift */,
 				37F3D05D2AF0464D00782CFD /* ContentView.swift */,
+				37F3D05B2AF0464D00782CFD /* oct30gameApp.swift */,
 				37F3D05F2AF0464E00782CFD /* Assets.xcassets */,
 				37F3D0612AF0464E00782CFD /* Preview Content */,
 			);

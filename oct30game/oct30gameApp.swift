@@ -12,6 +12,7 @@ struct oct30gameApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+
         }
     }
 }
